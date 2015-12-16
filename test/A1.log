@@ -1,0 +1,4 @@
+main DEBUG test.App - With respect to logging you may want to configure file 
+main DEBUG test.App - 'src/main/resources/log4j2.xml' to suit your needs.
+main DEBUG test.App - This config file 'log4j2.xml' will result in 'A1.log'
+main DEBUG test.App - file containing logging output as well.
