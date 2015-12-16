@@ -16,7 +16,7 @@ public class App {
      * @param args Unused
      */
     public static void main( String[] args ) {
-        System.out.println( "Some more changes" );
+        System.out.println( "Grüssle" );
         
         log.debug("With respect to logging you may want to configure file ");
         log.debug("'src/main/resources/log4j2.xml' to suit your needs.");
